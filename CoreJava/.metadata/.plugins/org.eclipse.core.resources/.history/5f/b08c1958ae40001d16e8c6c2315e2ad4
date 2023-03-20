@@ -1,0 +1,16 @@
+//Driver Code
+public class TestAgrr {
+ public static void main(String[] args) {
+	 
+	 Person p1=new Person();
+	 p1.printPerson();
+	 
+	 MyDate d1=new MyDate();
+
+	 Person p2=new Person(2,"Arjun",d1);
+	 p2.printPerson();
+	 
+	 
+	}
+
+}

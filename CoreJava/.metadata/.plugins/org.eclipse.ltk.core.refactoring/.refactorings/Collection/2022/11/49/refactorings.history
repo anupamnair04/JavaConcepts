@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;seed.collection.IdComparator&apos; to &apos;RollComparator&apos;&#x0D;&#x0A;- Original project: &apos;Collection&apos;&#x0D;&#x0A;- Original element: &apos;seed.collection.IdComparator&apos;&#x0D;&#x0A;- Renamed element: &apos;seed.collection.RollComparator&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Rename similarly named elements&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;IdComparator&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;seed.collection{IdComparator.java[IdComparator" matchStrategy="1" name="RollComparator" qualified="false" references="true" similarDeclarations="true" stamp="1669710160939" textual="true" version="1.0"/>
+</session>

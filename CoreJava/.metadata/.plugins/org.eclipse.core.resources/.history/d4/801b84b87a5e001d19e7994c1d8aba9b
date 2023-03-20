@@ -1,0 +1,19 @@
+//Driver Code
+public class TestEmpMan {
+//Main Method
+public static void main(String[] args) {
+	   //Object Creation without parameter
+	     //Manager m1=new Manager();
+	     WageEmp e1=new WageEmp();
+	   //Print Object
+		 e1.printWageEmp();
+	   //Object Initialization with parameter
+		 WageEmp e2=new WageEmp(2,25000,"Dharam",50);
+	   //Print Object
+		 e2.printWageEmp();
+	   //Object Initialization with parameter
+		 WageEmp e3=new WageEmp(3,35000,"Swagat",190);
+	   //Print Object
+		 e3.printWageEmp();
+	}
+}

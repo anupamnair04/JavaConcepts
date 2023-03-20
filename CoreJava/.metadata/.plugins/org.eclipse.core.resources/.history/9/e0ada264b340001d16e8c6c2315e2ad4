@@ -1,0 +1,17 @@
+//Driver Code
+public class TestDisplayCities {
+ public static void main(String[] args) {
+		 //Object
+	 DisplayCities v1=new DisplayCities();
+	/* DisplayCities v2=new DisplayCities();
+	 DisplayCities v3=new DisplayCities();
+	 DisplayCities v4=new DisplayCities();*/
+		 //Object Initialization
+		 v1.displayCities("Gujarat","Palanpur");
+		/* v2.displayCities();
+		 v3.displayCities();
+		 v4.displayCities();*/
+
+	}
+
+}

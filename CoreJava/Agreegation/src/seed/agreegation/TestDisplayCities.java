@@ -1,0 +1,17 @@
+//Package Definition
+package seed.agreegation;
+//Driver Code
+public class TestDisplayCities {
+	
+  public static void main(String[] args) {
+	
+	  //Object
+	 DisplayCities d1=new DisplayCities();
+	 DisplayCities d2=new DisplayCities();
+	 DisplayCities d3=new DisplayCities();
+	 //Object Initialization
+	 d1.displayCities("Gujarat","Palanpur","Gandhinagar","Mehsana");
+	 d2.displayCities("UttarPradesh","Varanasi","Lucknow","Paragraj");
+	 d3.displayCities("Maharashtra","Chikli","Vallabhnagar","Pimpri");
+	}
+}

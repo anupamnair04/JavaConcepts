@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 4 elements to &apos;ObjectClass/src/seed.objectclass&apos;&#x0D;&#x0A;- Original project: &apos;ObjectClass&apos;&#x0D;&#x0A;- Destination element: &apos;ObjectClass/src/seed.objectclass&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Person.java&#x0D;&#x0A;     Book.java&#x0D;&#x0A;     TestBook.java&#x0D;&#x0A;     TestPerson.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;seed.objectclass" element1="/src&lt;{Person.java" element2="/src&lt;{Book.java" element3="/src&lt;{TestBook.java" element4="/src&lt;{TestPerson.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1668147661502" units="4" version="1.0"/>
+</session>
